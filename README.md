@@ -1,2 +1,2 @@
-# java-my-mall-leaning
-java mall leaning by http://www.macrozheng.com/#/README
+# java-my-mall-learning
+java mall learning by http://www.macrozheng.com/#/README
